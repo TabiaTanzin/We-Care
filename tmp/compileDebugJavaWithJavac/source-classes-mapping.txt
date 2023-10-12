@@ -1,0 +1,12 @@
+com/example/wehelpmappart/databinding/ActivityMapsBinding.java
+ com.example.wehelpmappart.databinding.ActivityMapsBinding
+com/example/wehelpmappart/MapsActivity.java
+ com.example.wehelpmappart.MapsActivity
+com/example/wehelpmappart/GetNearbyPlacesData.java
+ com.example.wehelpmappart.GetNearbyPlacesData
+com/example/wehelpmappart/BuildConfig.java
+ com.example.wehelpmappart.BuildConfig
+com/example/wehelpmappart/DataParser.java
+ com.example.wehelpmappart.DataParser
+com/example/wehelpmappart/DownloadURL.java
+ com.example.wehelpmappart.DownloadURL
